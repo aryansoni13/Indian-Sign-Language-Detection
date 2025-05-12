@@ -1,6 +1,6 @@
 # 🖐️ Hast-Akshar: Deep Learning Based Sign Language for Devanagari
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![Status](https://img.shields.io/badge/status-in--progress-yellow)
